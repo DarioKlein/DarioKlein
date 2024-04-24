@@ -17,6 +17,7 @@
 <img align="center" alt="ts" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" /> 
 <img align="center" alt="next.js" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
 <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2354f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="mysql" src="https://img.shields.io/badge/Node_JS-000?style=for-the-badge&logo=nodedotjs&logoColor=green"/>
 </p>
 
 <p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home">site </a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
