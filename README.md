@@ -2,7 +2,7 @@
 <p>🤗 Seja muito bem-vindo(a) ao meu GitHub! Aqui você conhecerá a minha carreira completa no TI, assim como meus principais projetos já desenvolvidos. </p>
 
 <h2>👾 Sobre mim: </h2>
-<img src="https://i.postimg.cc/L8WH5Cm3/971.jpg" min-width="400px" max-width="400px" width="275px" align="right" alt="code">
+<img src="https://i.postimg.cc/L8WH5Cm3/971.jpg" min-width="400px" max-width="400px" width="220px" align="right" alt="code">
 <p align="left">🌐 Eu me chamo Dário Klein, tenho 18 anos e sou um <b>Desenvolvedor Full-Stack</b> em Assis, SP.</p>
 <p align="left">🌠 Meus objetivos são de revolucionar a <b>tecnologia</b> no Brasil e consequentemente colocar o mesmo no topo do <b> Desenvolvimento de Sistemas</b> no mundo.</p>
 
