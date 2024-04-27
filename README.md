@@ -31,7 +31,7 @@
         <img src="https://github.com/DarioKlein/Projeto-Kanban/raw/main/.github/telaPrincipal.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 2">
     </a>
     <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">
-        <img src="https://i.postimg.cc/pdxbSfTH/Captura-de-tela-2024-01-10-151259.png](https://github.com/DarioKlein/My-Personal-Portfolio/raw/main/.github/imgProjeto.png" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
+        <img src="https://i.postimg.cc/wMms6vjY/img-Projeto.png" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
     </a>
 </ul>
 
