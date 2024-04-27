@@ -43,11 +43,6 @@ Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript<
 Projetos desenvolvidos: <a href="https://portfolio-roan-one-74.vercel.app/#home">Portfolio</a><br><br>
 
 <img align="left" height="94px" width="94px" alt="Fatec" src="https://th.bing.com/th/id/R.85d3a7a9d7ff00c632dac8f61d328aa0?rik=OwtGF04280yoEw&riu=http%3a%2f%2fwww.big1news.com.br%2fwp-content%2fuploads%2f2013%2f10%2ffatec-logo.jpg&ehk=8h2n2aS%2bSdawg9WDiAqe6e9GnYRSzGI6F0O5VjiFHrs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"/>
-<b>Análise e Desenvolvimento de Sistemas</b><br>
-<b>FATEC-SP</b> • Curso Superior de Tecnologia (CST)<br>
-Linguagens & Tecnologias: <code>Front-End</code>, <code>Back-End</code>, <code>Dados</code>, <code>Mobile</code>, <code>IA</code><br>
-Projetos desenvolvidos: <br><br>
-<img align="left" height="94px" width="94px" alt="Fatec" src="https://cursophd.com.br/wp-content/uploads/2020/09/etec-1280x720-4.png"/>
 <b>Técnico em informática para Internet</b><br>
 <b>ETEC-SP</b> • Curso Técnico integrado ao ensino médio (Etim)<br>
 Linguagens & Tecnologias: <code>PHP</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>MySQL</code><br>
