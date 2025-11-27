@@ -18,7 +18,7 @@
 <img align="center" alt="r" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
 
-<p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home" style="text-decoration: none;" target="_blank">site </a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
+<p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">site</a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
 
 <h2>🚀 Principais projetos: </h2>
 <ul>
@@ -56,7 +56,7 @@ TCC desenvolvido: <a href="https://github.com/DarioKlein/TCC" target="_blank">Ga
 
 <h2>📞 Contato: </h2>
 <p>
-<a href="https://www.linkedin.com/in/d%C3%A1rio-klein-7a49ab281/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+<a href="https://www.linkedin.com/in/d%C3%A1rio-klein-7a49ab281/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://api.whatsapp.com/send?phone=5518997325633" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
 <a href="https://www.instagram.com/darioklein.ab/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
