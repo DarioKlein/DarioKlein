@@ -18,7 +18,7 @@
 <img align="center" alt="r" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
 
-<p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">site </a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
+<p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home" style="text-decoration: none;" target="_blank">site </a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
 
 <h2>🚀 Principais projetos: </h2>
 <ul>
