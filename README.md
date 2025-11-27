@@ -8,7 +8,7 @@
 
 <h2>🖥️ Habilidades: </h2>
 <p>
-<img align="center" alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img align="center" alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img align="center" alt="fastify" src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node_JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img align="center" alt="ts" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" /> 
