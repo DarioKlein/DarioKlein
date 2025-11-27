@@ -15,7 +15,7 @@
 <img align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="next" src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="r" src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+<img align="center" alt="r" src="https://img.shields.io/badge/Postgre-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
 
 <p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">site </a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
