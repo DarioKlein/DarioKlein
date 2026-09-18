@@ -12,7 +12,7 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 
 </div>
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FEMA**, com média acadêmica **9,82**.
 - 💻 Estagiário voluntário em Desenvolvimento de Software Full Stack no **CEPEIN**, atuando com **Angular, Java e Spring Boot**.
@@ -21,7 +21,7 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 - 📍 Assis, São Paulo.
 - 🚀 Em busca de oportunidades para evoluir profissionalmente e contribuir com projetos de software.
 
-## Stack principal
+## 🧰 Stack principal
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 
 </div>
 
-## Conhecimentos complementares
+## 🧩 Conhecimentos complementares
 
 <div align="center">
 
@@ -54,9 +54,9 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 
 </div>
 
-## Experiência
+## 💼 Experiência
 
-### CEPEIN - Centro de Pesquisa e Informática da FEMA
+### 🏢 CEPEIN - Centro de Pesquisa e Informática da FEMA
 
 **Estagiário voluntário em Desenvolvimento de Software Full Stack** | 2025 - atual
 
@@ -65,7 +65,7 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 - Modelagem de dados relacionais com JPA e Hibernate.
 - Colaboração no fluxo de versionamento, revisão e entrega de código com Git e GitHub.
 
-## Projetos selecionados
+## 🚀 Projetos selecionados
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -73,29 +73,25 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 | [📊 Nexus](https://github.com/DarioKlein/nexus-app-react) | Dashboard financeiro com visão de depósitos, saques, usuários, movimentações recentes e saldos em reais e criptoativos. | React, TypeScript, Tailwind CSS, React Router |
 | [♻️ EcoPass](https://github.com/DarioKlein/ecopass-api-springboot) | API de reciclagem com sistema de recompensas, gestão de usuários, carteiras digitais, validação, DTOs e tratamento global de exceções. | Java 21, Spring Boot, MapStruct, Spring Validation |
 
-## Formação
+## 🎓 Formação
 
 - **Tecnologia em Análise e Desenvolvimento de Sistemas** - FEMA, 2025 - atual  
   Média acadêmica: **9,82**
 - **Técnico em Informática para Internet** - ETEC Prof. Luiz Pires Barbosa, 2021 - 2023
 - **Primeiro Código - Desenvolvimento Web Front-End** - Ada Tech, 2023
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarioKlein&show_icons=true&hide_border=true&title_color=1F4E67&icon_color=1F4E67&text_color=4C555C&bg_color=00000000" alt="Estatísticas do GitHub de Dário Klein" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioKlein&layout=compact&langs_count=8&hide_border=true&title_color=1F4E67&text_color=4C555C&bg_color=00000000" alt="Linguagens mais utilizadas por Dário Klein" />
-
-</div>
-
-## Contato
+## 📬 Contato
 
 Se quiser conversar sobre desenvolvimento de software, projetos ou oportunidades profissionais:
 
-- [LinkedIn](https://www.linkedin.com/in/dario-klein-7a49ab281/)
-- [Portfólio](https://dariokleinalves.vercel.app/)
-- [E-mail](mailto:dariokleinalves@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-klein-7a49ab281/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-1F4E67?style=for-the-badge&logo=vercel&logoColor=white)](https://dariokleinalves.vercel.app/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariokleinalves@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioKlein)
+
+</div>
 
 <div align="center">
 
