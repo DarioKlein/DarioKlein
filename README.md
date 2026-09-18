@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Dário Klein 👋
 
-### Desenvolvedor Full Stack | Java e Spring Boot | Angular e React
+### Desenvolvedor Full-Stack | Java e Spring Boot | Angular e React
 
 Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-end com interfaces modernas e responsivas no front-end.
 
@@ -15,7 +15,7 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FEMA**, com média acadêmica **9,82**.
-- 💻 Estagiário voluntário em Desenvolvimento de Software Full Stack no **CEPEIN**, atuando com **Angular, Java e Spring Boot**.
+- 💻 Estagiário voluntário em Desenvolvimento de Software Full-Stack no **CEPEIN**, atuando com **Angular, Java e Spring Boot**.
 - 🔗 Experiência no desenvolvimento e consumo de **APIs REST**, modelagem de dados relacionais e integração entre front-end e back-end.
 - 🧪 Interesse em arquitetura de software, boas práticas, testes automatizados e construção de aplicações completas.
 - 📍 Assis, São Paulo.
@@ -58,7 +58,7 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 
 ### 🏢 CEPEIN - Centro de Pesquisa e Informática da FEMA
 
-**Estagiário voluntário em Desenvolvimento de Software Full Stack** | 2025 - atual
+**Estagiário voluntário em Desenvolvimento de Software Full-Stack** | 2025 - atual
 
 - Desenvolvimento de funcionalidades em pair programming com **Angular** no front-end e **Java com Spring Boot** no back-end.
 - Construção e consumo de APIs REST para integração entre as camadas da aplicação.
