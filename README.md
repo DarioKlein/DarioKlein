@@ -89,7 +89,7 @@ Se quiser conversar sobre desenvolvimento de software, projetos ou oportunidades
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-klein-7a49ab281/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-1F4E67?style=for-the-badge&logo=vercel&logoColor=white)](https://dariokleinalves.vercel.app/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariokleinalves@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioKlein)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518997325633)
 
 </div>
 
