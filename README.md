@@ -1,62 +1,104 @@
-<h1>👋🏻 Olá! Estou muito feliz de te ver por aqui.</h1>
-<p>🤗 Seja muito bem-vindo(a) ao meu GitHub! Aqui você conhecerá a minha carreira completa no TI, assim como meus principais projetos já desenvolvidos. </p>
+<div align="center">
 
-<h2>👾 Sobre mim: </h2>
-<img src="https://i.postimg.cc/L8WH5Cm3/971.jpg" width="200px" align="right" alt="code">
-<p align="left">🌐 Eu me chamo Dário Klein, tenho 19 anos e sou um <b>Desenvolvedor Full-Stack</b> em Assis, SP.</p>
-<p align="left">🌠 Meus objetivos são de estagiar na área de <b>tecnologia</b>, atuando no <b>Desenvolvimento de Sistemas </b>, onde eu possa aplicar na prática os conhecimentos adquiridos ao longo da minha formação e experiências pessoais. Meu foco é evoluir continuamente como desenvolvedor, aprofundando-me em <b>arquitetura de software</b>, boas práticas de código, <b>Spring Boot</b>, <b>React</b>, <b>Node.js</b> e outras tecnologias que venho estudando.</p>
+# Olá, eu sou o Dário Klein 👋
 
-<h2>🖥️ Habilidades: </h2>
-<p>
-<img align="center" alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img align="center" alt="fastify" src="https://img.shields.io/badge/fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node_JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img align="center" alt="ts" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" /> 
-<img align="center" alt="react.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="next" src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt="r" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-</p>
+### Desenvolvedor Full Stack | Java e Spring Boot | Angular e React
 
-<p>✉️ Convido também você a acessar meu <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">site</a> aqui você conhecerá meu trabalho mais de pertinho 😊.</p>
+Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-end com interfaces modernas e responsivas no front-end.
 
-<h2>🚀 Principais projetos: </h2>
-<ul>
-    <a href="https://github.com/DarioKlein/TCC" target="_blank">
-        <img src="https://i.postimg.cc/qvtnhKX2/Captura-de-tela-2024-01-10-152108.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 1">
-    </a>
-    <a href="https://github.com/DarioKlein/Projeto-Kanban" target="_blank">
-        <img src="https://github.com/DarioKlein/Projeto-Kanban/raw/main/.github/telaPrincipal.png" min-width="250px" max-width="250px" width="250px" align="left" alt="Projeto 2">
-    </a>
-    <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">
-        <img src="https://i.postimg.cc/wMms6vjY/img-Projeto.png" min-width="250px" max-width="250px" width="250px" align="" alt="Projeto 3">
-    </a>
-</ul>
+[![Portfolio](https://img.shields.io/badge/Portfólio-1F4E67?style=for-the-badge&logo=vercel&logoColor=white)](https://dariokleinalves.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-klein-7a49ab281/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dariokleinalves@gmail.com)
 
-<h2>🎓 Formação: </h2>
-<a href="https://www.fema.edu.br/"><img align="left" height="110px" width="110px" alt="Fema" src="https://lh6.googleusercontent.com/proxy/DFwSGircP0pOxB7_wBHR_Vvg8-Mx-5FOga0JoujzUzkWb3Bf1DdojogO2H6DW6sw6eoJPTZO5Kp7JaW8wCtvOqpRKez9ajlgM7X2UdvchafFWiEKEErH46LxzIrGeOqoVPU35g"/></a>
-<b>Análise e Desenvolvimento de Sistemas</b><br>
-<b>FEMA</b> • Tecnólogo em Análise e Desenvolvimento de Sistemas<br>
-Conteúdo: <code>Engenharia de Software</code>, <code>Linguagens de Programação</code>, <code>Banco de Dados</code>, <code>Mobile</code><br>
-Projetos desenvolvidos: <a href="https://github.com/DarioKlein/assis-futsal">Assis Futsal</a><br><br>
+</div>
 
-<a href="https://ada.tech/"><img align="left" height="100px" width="110px" alt="ADATech" src="https://ada-site-frontend.s3.sa-east-1.amazonaws.com/favicon.png"/></a>
-<b>Desenvolvimento WEB Front-End</b><br>
-<b>ADA Tech</b> • Certificado Profissional<br>
-Linguagens & Tecnologias: <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>TypeScript</code>, <code>React</code><br>
-Projetos desenvolvidos: <a href="https://portfolio-roan-one-74.vercel.app/#home" target="_blank">Portfolio</a>, <a href="https://github.com/DarioKlein/kanban" target="_blank">Kanban</a>, <a href="https://github.com/DarioKlein/task-list-reactjs" target="_blank">Task List</a> <br><br>
+## Sobre mim
 
-<a href="#"><img align="left" style="object-fit: cover; border-radius: 0;" height="100px" width="110px" alt="Fatec" src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-19/483058830_1142371784237792_3975754959996318026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QFodU2zGC01pV-Iyike-lYB44JPIAnvlocG_RQMxay73oqoysF9lceQ802MGaOz6O0&_nc_ohc=OA-a2gLaRvYQ7kNvwE1_F1i&_nc_gid=wA96Hhvbwj_VgHGpvy4O-Q&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfhLN_EYoRTc4NSTj_P90MDokj3uppa9cUJUFhRkIdRdTg&oe=692E7F57&_nc_sid=22de04"/></a>
-<b>Técnico em informática para Internet</b><br>
-<b>ETEC-SP</b> • Curso Técnico integrado ao ensino médio <br>
-Linguagens & Tecnologias: <code>PHP</code>, <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>MySQL</code><br>
-TCC desenvolvido: <a href="https://github.com/DarioKlein/TCC" target="_blank">Gaming Core</a> <br><br>
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FEMA**, com média acadêmica **9,82**.
+- 💻 Estagiário voluntário em Desenvolvimento de Software Full Stack no **CEPEIN**, atuando com **Angular, Java e Spring Boot**.
+- 🔗 Experiência no desenvolvimento e consumo de **APIs REST**, modelagem de dados relacionais e integração entre front-end e back-end.
+- 🧪 Interesse em arquitetura de software, boas práticas, testes automatizados e construção de aplicações completas.
+- 📍 Assis, São Paulo.
+- 🚀 Em busca de oportunidades para evoluir profissionalmente e contribuir com projetos de software.
 
-<p>📱 Para mais informações toda a minha formação profissional acesse o meu <a href="https://www.linkedin.com/in/d%C3%A1rio-klein-7a49ab281/" target="_blank">LinkedIn</a>.</p>
+## Stack principal
 
-<h2>📞 Contato: </h2>
-<p>
-<a href="https://www.linkedin.com/in/d%C3%A1rio-klein-7a49ab281/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://api.whatsapp.com/send?phone=5518997325633" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/darioklein.ab/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-</p>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+## Conhecimentos complementares
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## Experiência
+
+### CEPEIN - Centro de Pesquisa e Informática da FEMA
+
+**Estagiário voluntário em Desenvolvimento de Software Full Stack** | 2025 - atual
+
+- Desenvolvimento de funcionalidades em pair programming com **Angular** no front-end e **Java com Spring Boot** no back-end.
+- Construção e consumo de APIs REST para integração entre as camadas da aplicação.
+- Modelagem de dados relacionais com JPA e Hibernate.
+- Colaboração no fluxo de versionamento, revisão e entrega de código com Git e GitHub.
+
+## Projetos selecionados
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🏥 Clínica Restauração](https://github.com/LuisFelipedaSilvaE/restauracao-clinica-angular) | Sistema de gestão clínica desenvolvido em equipe, com minha contribuição direta. Inclui autenticação, controle de acesso e gestão de modalidades de acolhimento e funcionários. | Angular, TypeScript, PrimeNG, Tailwind CSS |
+| [📊 Nexus](https://github.com/DarioKlein/nexus-app-react) | Dashboard financeiro com visão de depósitos, saques, usuários, movimentações recentes e saldos em reais e criptoativos. | React, TypeScript, Tailwind CSS, React Router |
+| [♻️ EcoPass](https://github.com/DarioKlein/ecopass-api-springboot) | API de reciclagem com sistema de recompensas, gestão de usuários, carteiras digitais, validação, DTOs e tratamento global de exceções. | Java 21, Spring Boot, MapStruct, Spring Validation |
+
+## Formação
+
+- **Tecnologia em Análise e Desenvolvimento de Sistemas** - FEMA, 2025 - atual  
+  Média acadêmica: **9,82**
+- **Técnico em Informática para Internet** - ETEC Prof. Luiz Pires Barbosa, 2021 - 2023
+- **Primeiro Código - Desenvolvimento Web Front-End** - Ada Tech, 2023
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DarioKlein&show_icons=true&hide_border=true&title_color=1F4E67&icon_color=1F4E67&text_color=4C555C&bg_color=00000000" alt="Estatísticas do GitHub de Dário Klein" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioKlein&layout=compact&langs_count=8&hide_border=true&title_color=1F4E67&text_color=4C555C&bg_color=00000000" alt="Linguagens mais utilizadas por Dário Klein" />
+
+</div>
+
+## Contato
+
+Se quiser conversar sobre desenvolvimento de software, projetos ou oportunidades profissionais:
+
+- [LinkedIn](https://www.linkedin.com/in/dario-klein-7a49ab281/)
+- [Portfólio](https://dariokleinalves.vercel.app/)
+- [E-mail](mailto:dariokleinalves@gmail.com)
+
+<div align="center">
+
+Desenvolvendo, aprendendo e transformando ideias em software.
+
+</div>
