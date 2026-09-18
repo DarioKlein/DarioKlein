@@ -82,9 +82,9 @@ Desenvolvo aplicações web completas, combinando APIs bem estruturadas no back-
 
 ## 📬 Contato
 
-Se quiser conversar sobre desenvolvimento de software, projetos ou oportunidades profissionais:
-
 <div align="center">
+
+Se quiser conversar sobre desenvolvimento de software, projetos ou oportunidades profissionais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-klein-7a49ab281/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-1F4E67?style=for-the-badge&logo=vercel&logoColor=white)](https://dariokleinalves.vercel.app/)
